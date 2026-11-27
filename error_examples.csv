@@ -1,0 +1,6 @@
+O*NET-SOC Code,title,actual_zone,predicted_zone,confidence,correct,zones_off
+17-3011.00,Architectural and Civil Drafters,3,4,0.526,False,1
+43-4021.00,Correspondence Clerks,2,4,0.623,False,2
+17-2199.06,Microsystems Engineers,5,4,0.623,False,1
+15-1232.00,Computer User Support Specialists,3,4,0.623,False,1
+25-1067.00,"Sociology Teachers, Postsecondary",5,4,0.623,False,1
